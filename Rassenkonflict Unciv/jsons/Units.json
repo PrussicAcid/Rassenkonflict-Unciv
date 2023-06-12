@@ -1,0 +1,29 @@
+[
+	{
+		"name": "Konskript", 
+		"unitType": "Gunpowder",
+		"replaces": "Great War Infantry",
+		"uniqueTo": "The Free State of New Prussia",
+		"movement": 2,
+		"strength": 45,
+		"cost": 250,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Infantry",
+		"obsoleteTech": "Future Tech",
+		"uniques":["[-100]% maintenance costs"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hirudinea",
+		"unitType": "Armored",
+		"replaces": "Giant Death Robot",
+		"uniqueTo": "The Free State of New Prussia",
+		"movement": 3,
+		"strength": 225,
+		"cost": 350,
+		"requiredTech": "Nuclear Fusion",
+		"requiredResource": "Uranium",
+		"uniques": ["Never appears as a Barbarian unit"],
+		"attackSound": "gdrAttack"
+	},
+]
