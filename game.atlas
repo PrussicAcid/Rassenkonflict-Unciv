@@ -1,0 +1,69 @@
+
+game.png
+size: 1024, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bulletin
+  rotate: false
+  xy: 4, 93
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Gregrian Republic
+  rotate: false
+  xy: 4, 201
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+NationIcons/The Free State of New Prussia
+  rotate: false
+  xy: 261, 201
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Hirudinea
+  rotate: false
+  xy: 518, 369
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Konskript
+  rotate: false
+  xy: 4, 4
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trader at arms
+  rotate: false
+  xy: 112, 112
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+UnitIcons/Hirudinea
+  rotate: false
+  xy: 518, 270
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Konskript
+  rotate: false
+  xy: 621, 359
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Trader at arms
+  rotate: false
+  xy: 720, 359
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

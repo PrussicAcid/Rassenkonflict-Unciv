@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Bulletin",
+		"replaces": "Market",
+		"uniqueTo": "Gregrian Republic",
+		"science": 2,
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 35},
+		"requiredTech": "Currency"
+	},
+]
