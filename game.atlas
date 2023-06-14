@@ -1,68 +1,117 @@
 
 game.png
-size: 1024, 512
+size: 2048, 512
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Bulletin
   rotate: false
-  xy: 4, 93
+  xy: 4, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/IKEA
+  rotate: false
+  xy: 1032, 369
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Konskription Tavern
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Postern
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Gray Marsh
+  rotate: false
+  xy: 4, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
 NationIcons/Gregrian Republic
   rotate: false
-  xy: 4, 201
+  xy: 261, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+NationIcons/Sodermanland
+  rotate: false
+  xy: 518, 220
   size: 249, 249
   orig: 249, 249
   offset: 0, 0
   index: -1
 NationIcons/The Free State of New Prussia
   rotate: false
-  xy: 261, 201
+  xy: 775, 220
   size: 249, 249
   orig: 249, 249
   offset: 0, 0
   index: -1
-TileSets/AbsoluteUnits/Units/Hirudinea
+TileSets/AbsoluteUnits/Units/Dextrous Effigy
   rotate: false
-  xy: 518, 369
+  xy: 1032, 280
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Incendiary Bowman
+  rotate: false
+  xy: 1140, 388
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Konskript
   rotate: false
-  xy: 4, 4
+  xy: 112, 23
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
 TileSets/AbsoluteUnits/Units/Trader at arms
   rotate: false
-  xy: 112, 112
+  xy: 220, 131
   size: 95, 81
   orig: 95, 81
   offset: 0, 0
   index: -1
-UnitIcons/Hirudinea
+UnitIcons/Dextrous Effigy
   rotate: false
-  xy: 518, 270
+  xy: 1243, 378
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Incendiary Bowman
+  rotate: false
+  xy: 1342, 378
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 UnitIcons/Konskript
   rotate: false
-  xy: 621, 359
+  xy: 1441, 378
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
   index: -1
 UnitIcons/Trader at arms
   rotate: false
-  xy: 720, 359
+  xy: 1540, 378
   size: 91, 91
   orig: 91, 91
   offset: 0, 0
