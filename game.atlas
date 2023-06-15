@@ -1,0 +1,146 @@
+
+game.png
+size: 2048, 512
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
+BuildingIcons/Bulletin
+  rotate: false
+  xy: 4, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/IKEA
+  rotate: false
+  xy: 1289, 369
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Konskription Tavern
+  rotate: false
+  xy: 4, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Postern
+  rotate: false
+  xy: 112, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Slave Scramble
+  rotate: false
+  xy: 1289, 261
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Gray Marsh
+  rotate: false
+  xy: 4, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+NationIcons/Gregrian Republic
+  rotate: false
+  xy: 261, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+NationIcons/Ronegra
+  rotate: false
+  xy: 518, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+NationIcons/Sodermanland
+  rotate: false
+  xy: 775, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+NationIcons/The Free State of New Prussia
+  rotate: false
+  xy: 1032, 220
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Dextrous Effigy
+  rotate: false
+  xy: 1397, 388
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Incendiary Bowman
+  rotate: false
+  xy: 112, 23
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Konskript
+  rotate: false
+  xy: 220, 131
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Slave
+  rotate: false
+  xy: 1397, 299
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+TileSets/AbsoluteUnits/Units/Trader at arms
+  rotate: false
+  xy: 1500, 388
+  size: 95, 81
+  orig: 95, 81
+  offset: 0, 0
+  index: -1
+UnitIcons/Dextrous Effigy
+  rotate: false
+  xy: 323, 121
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Incendiary Bowman
+  rotate: false
+  xy: 422, 121
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Konskript
+  rotate: false
+  xy: 521, 121
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Slave
+  rotate: false
+  xy: 620, 121
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1
+UnitIcons/Trader at arms
+  rotate: false
+  xy: 719, 121
+  size: 91, 91
+  orig: 91, 91
+  offset: 0, 0
+  index: -1

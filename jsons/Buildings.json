@@ -1,0 +1,53 @@
+[
+	{
+		"name": "Bulletin",
+		"replaces": "Market",
+		"uniqueTo": "Gregrian Republic",
+		"science": 2,
+		"gold": 3,
+		"specialistSlots": {"Merchant": 1},
+		"hurryCostModifier": 25,
+		"percentStatBonus": {"gold": 35},
+		"requiredTech": "Currency"
+	},
+	{
+		"name": "Postern",
+		"replaces": "Monument",
+		"uniqueTo": "Gray Marsh",
+		"faith": 2,
+		"culture": 3,
+		"specialistSlots": {"Artist": 2},
+		"hurryCostModifier": 40,
+		"cost": 40
+	},
+	{
+		"name": "IKEA",
+		"replaces": "Workshop",
+		"uniqueTo": "Sodermanland",
+		"cost": 120,
+		"maintenance": 1,
+		"production": 4,
+		"specialistSlots": {"Engineer": 1},
+		"hurryCostModifier": 25,
+		"uniques": ["[+20]% Production when constructing [Siege] units [in this city]"],
+		"requiredTech": "Metal Casting"
+	},
+	{
+		"name": "Konskription Tavern"
+		"replaces": "Armory",
+		"uniqueTo": "The Free State of New Prussia",
+		"hurryCostModifier": 25,
+		"maintenance": 1,
+		"requiredBuilding": "Barracks",
+		"uniques": ["New [Military] units start with [15] Experience [in this city]", "Destroyed when the city is captured", "[+15]% Production when constructing [Gunpowder] units [in this city]"],
+		"requiredTech": "Steel"
+	},
+	{
+		"name": "Slave Scramble"
+		"replaces": "Market",
+		"uniqueTo": "Ronegra",
+		"hurryCostModifier": 25,
+		"uniques": ["[+3 Gold] from every [Plantation]"],
+		"requiredTech": "Currency"
+	},
+]
